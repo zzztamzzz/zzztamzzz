@@ -1,4 +1,3 @@
-[![Tamzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzztamzzz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 # About Me
 - 👋 Hi, I’m zzztamzzz
 - 👀 I’m interested in creating videogames. I enjoy playing videogames, mostly fighter and shooter games.
